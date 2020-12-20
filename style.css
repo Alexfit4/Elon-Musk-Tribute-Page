@@ -1,0 +1,44 @@
+#elonMuskAbout{
+    width: 700px;
+    height: 500px;
+}
+
+#about, h1,h4, p {
+    text-align: center;
+}
+
+#bio {
+    text-align: left;
+}
+
+#mainImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.accImg {
+    float: left;
+    width:  300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+#accomplishment, #titleBio {
+    padding-top: 50px;
+}
+
+#nav {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    margin-left: 0px; 
+
+}
+#nav li {
+   display: inline-block;
+   text-align:center; 
+}
